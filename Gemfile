@@ -14,7 +14,7 @@ gem 'spring',        group: :development
 
 # learn-rails
 gem 'activerecord-tableless'
-gem 'foundation-rails'
+gem 'foundation-rails', '5.4.3.1'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
